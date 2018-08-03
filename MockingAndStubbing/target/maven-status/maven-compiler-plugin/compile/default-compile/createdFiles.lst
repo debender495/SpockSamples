@@ -1,0 +1,7 @@
+more\example\mock\InvoiceStorage.class
+more\example\mock\EmailSender.class
+more\example\mock\BillDelayNotification.class
+more\example\stub\Employ.class
+more\example\stub\EmployReader.class
+more\example\stub\Staff.class
+more\example\stub\StaffReader.class
